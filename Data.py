@@ -10,12 +10,12 @@ Welcome to {}
 
 I can extract text from images using OCR technology.
 
-By @StarkBots
+By @m2botz
     """
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/m2botz/17")],
         [InlineKeyboardButton(text="🏠Home", callback_data="home")],
     ]
     # Rest Buttons
