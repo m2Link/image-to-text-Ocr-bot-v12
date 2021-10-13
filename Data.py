@@ -16,19 +16,19 @@ By @StarkBots
     # Home Button
     home_buttons = [
         [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")],
+        [InlineKeyboardButton(text="🏠Home", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")
+            InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/m2botz/17")
         ],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+            InlineKeyboardButton("About😎", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("Updates Channel", url="https://t.me/m2botz")],
+        [InlineKeyboardButton("Support Group", url="https://t.me/m2botzsupport")],
     ]
 
     # Help Message
@@ -39,20 +39,22 @@ Just send an image. Rest is on me.
 
 Note : You can send any amount of images at once and it will work with same speed and accuracy.
 
-More features in development. Keep track by joining @StarkBots.
+More features in development. Keep track by joining @m2botz.
     """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-Bot created by @StarkBots
+Bot created by @m2botz
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/OCRBot)
+Updates Channel : [Click Here](https://t.me/m2botz)
+
+Support : [Click Here](https://t.me/m2botzsupport)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : [M2](https://t.me/ask_admin01)
     """
